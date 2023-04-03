@@ -59,5 +59,5 @@ More About me ?¿
 
 #### Social Links
 
-[![Social](https://skillicons.dev/icons?i=discord) Discord](https://discord.gg/WhackDevelopment)
-[![Social](https://skillicons.dev/icons?i=github) Github WhackDevelopment](https://github.com/WhackDevelopment)
+[![Social](https://skillicons.dev/icons?i=discord)](https://discord.gg/WhackDevelopment)
+[![Social](https://skillicons.dev/icons?i=github)](https://github.com/WhackDevelopment)
